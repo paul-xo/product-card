@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-HMvKAkMp4o)
+- Live Site URL: (https://product-cardd.pages.dev/)
 
 ## My process
 
@@ -82,9 +82,11 @@ To see how you can add code snippets, see below:
 ```
 
 ### Continued development
+
 - All HTML and CSS challenges on Frontend Mentor
 - Portfolio
 
 ## Author
+
 - Frontend Mentor - [@paul-xo](https://www.frontendmentor.io/profile/paul-xo)
 - GitHub - [@paul-xo](https://www.github.com/paul-xo)
